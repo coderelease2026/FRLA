@@ -3,7 +3,7 @@ import numpy as np
 import torch
 import random
 import time
-import src.methods.oh.nrc as NRC
+""" import src.methods.oh.nrc as NRC
 import src.methods.oh.shot as SHOT
 import src.methods.oh.sclm as SCLM
 import src.methods.oh.cowa as COWA
@@ -15,11 +15,11 @@ import src.methods.oh.difo as DIFO
 import src.methods.oh.difo_50 as DIFO_50
 
 import src.methods.oh.plue as PLUE
-import src.methods.oh.adacontrast as ADACONTRAST
+import src.methods.oh.adacontrast as ADACONTRAST """
 import src.methods.oh.source as SOURCE
 import src.methods.oh.patch as PATCH 
 #import src.methods.oh.patch_plot as PATCH ###
-import src.methods.oh.co_learn as CO_LEARN
+#import src.methods.oh.co_learn as CO_LEARN
 from conf import cfg, load_cfg_from_args
 
 
